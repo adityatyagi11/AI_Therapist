@@ -1,5 +1,7 @@
 # 🧠 Fine-Tuning GPT-2 for Empathetic Mental Health Conversations
 
+Check out the project: https://huggingface.co/spaces/adityatyagi/ai-therapist
+
 This project explores the **sequential fine-tuning** of a language model to act as a supportive, empathetic AI therapist capable of responding to users in emotional distress.
 
 ## 🛠️ Methodology
@@ -54,7 +56,7 @@ Fine-tune larger models (e.g., GPT-J, LLaMA, Mistral) for higher emotional intel
 
 Evaluate with real users for effectiveness and safety.
 
-Deploy as a chatbot or browser-based mental health companion.
+
 
 
 This project was inspired by the need for compassionate, accessible support in the mental health space, and leverages the amazing open-source contributions from Hugging Face and the AI community.
