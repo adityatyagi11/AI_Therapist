@@ -1,0 +1,12 @@
+accelerate
+peft
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+tqdm
+matplotlib
+seaborn
+nltk
+spacy
